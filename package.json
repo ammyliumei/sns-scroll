@@ -1,6 +1,6 @@
 {
   "name": "sns-scroll",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "适用于移动端的H5滚动组件",
   "main": "index.vue",
   "scripts": {
@@ -17,7 +17,7 @@
     "sns-scroll"
   ],
   "author": "lsy",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lsyzddd/sns-scroll/issues"
   },
